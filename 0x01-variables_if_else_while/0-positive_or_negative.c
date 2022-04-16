@@ -25,11 +25,7 @@ int main(void)
 	}
 	else
 	{
-<<<<<<< HEAD
 		printf("%d is positive\n", n);
-=======
-		printf("%d is positive", n);
->>>>>>> f4f9121d2133408c6e11e47439187d70f7b5d103
 	}
 	return (0);
 }
